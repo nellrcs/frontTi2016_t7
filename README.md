@@ -18,7 +18,10 @@ Nivelamento FrontEnd
 4_2 - Na pagina telefones também deve conter uma listagem com as seguintes colunas nome , telefone e acoes.
 
 4_4 - dever conter uma linha de exemplo com um nome, telefone e acoes com 2 dois botoes editar e apagar.
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 
 Arquivos:
 ---------
